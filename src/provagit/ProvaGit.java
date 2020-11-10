@@ -18,7 +18,7 @@ public class ProvaGit {
         long i=1;
         while(true){
             long s=i+2;
-            System.out.println("ehi ciao! " + s);
+            System.out.println("ciao Pogliani! " + s);
             i++;
         }
     }
