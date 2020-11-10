@@ -15,10 +15,10 @@ public class ProvaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        long i=0;
-        long e=50000;
+        long i=1;
         while(true){
-            System.out.println("ehi ciao! " + i*e);
+            long s=i+2;
+            System.out.println("ehi ciao! " + s);
             i++;
         }
     }
